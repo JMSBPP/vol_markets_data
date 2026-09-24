@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+node_modules/
